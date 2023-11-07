@@ -1,5 +1,5 @@
 # IS218GroupProjectFinal
-
+(Nathaniel's Sign In Sheet)
 | Date       | Tuesday | Thursday |
 |------------|:-------:|:--------:|
 | Nov 7th    | [X]     | [ ]      |
