@@ -1,5 +1,6 @@
 # IS218GroupProjectFinal
 
+### Rain Sign In Sheet
 | Date       | Tuesday | Thursday |
 |------------|:-------:|:--------:|
 | Nov 7th    | [X]     | [ ]      |
