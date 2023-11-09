@@ -1,4 +1,4 @@
 # IS218GroupProjectFinal
 
-### Rain Sign In Sheet
+### [Rain Sign In Sheet](RainSignInSheet)
 
