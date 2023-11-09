@@ -2,7 +2,7 @@
 (Nathaniel's Sign In Sheet)
 | Date       | Tuesday | Thursday |
 |------------|:-------:|:--------:|
-| Nov 7th    | [X]     | [ ]      |
+| Nov 7th    | [X]     | [X]      |
 | Nov 9th    | [ ]     | [ ]      |
 | Nov 14th   | [ ]     | [ ]      |
 | Nov 16th   | [ ]     | [ ]      |
