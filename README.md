@@ -4,7 +4,7 @@
 | Date       | Tuesday | Thursday |
 |------------|:-------:|:--------:|
 | Nov 7th    | [X]     | [ ]      |
-| Nov 9th    | [ ]     | [ ]      |
+| Nov 9th    | [ ]     | [X]      |
 | Nov 14th   | [ ]     | [ ]      |
 | Nov 16th   | [ ]     | [ ]      |
 | Nov 21st   | [ ]     | [ ]      |
