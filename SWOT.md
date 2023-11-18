@@ -15,5 +15,5 @@
 - Authority
 ## Threats 
 - People can’t afford new utensils sometimes
-= More powerful companies with a wider purview could force us out of the market 
+- More powerful companies with a wider purview could force us out of the market 
 
