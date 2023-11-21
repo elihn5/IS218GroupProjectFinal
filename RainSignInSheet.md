@@ -4,7 +4,7 @@
 | Nov 9th    | [ ]     | [X]      |
 | Nov 14th   | [X]     | [ ]      |
 | Nov 16th   | [ ]     | [X]      |
-| Nov 21st   | [ ]     | [ ]      |
+| Nov 21st   | [ ]     | [X]      |
 | Nov 23rd   | [ ]     | [ ]      |
 | Nov 28th   | [ ]     | [ ]      |
 | Nov 30th   | [ ]     | [ ]      |
