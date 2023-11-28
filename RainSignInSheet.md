@@ -5,8 +5,8 @@
 | Nov 14th   | [X]     | [ ]      |
 | Nov 16th   | [ ]     | [X]      |
 | Nov 21st   | [ ]     | [X]      |
-| Nov 23rd   | [ ]     | [ ]      |
-| Nov 28th   | [ ]     | [ ]      |
+| Nov 23rd   | [ ]     | VACATION      |
+| Nov 28th   | [X]     | [ ]      |
 | Nov 30th   | [ ]     | [ ]      |
 | Dec 5th    | [ ]     | [ ]      |
 | Dec 7th    | [ ]     | [ ]      |
