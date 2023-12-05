@@ -8,7 +8,7 @@
 | Nov 23rd   | [ ]     | VACATION      |
 | Nov 28th   | [X]     | [ ]      |
 | Nov 30th   | [ ]     | [X]      |
-| Dec 5th    | [ ]     | [ ]      |
+| Dec 5th    | [X]     | [ ]      |
 | Dec 7th    | [ ]     | [ ]      |
 | Dec 12th   | [ ]     | [ ]      |
 | Dec 14th   | [ ]     | [ ]      |
