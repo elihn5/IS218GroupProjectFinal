@@ -10,5 +10,5 @@
 | Nov 30th   | [ ]     | [X]      |
 | Dec 5th    | [X]     | [ ]      |
 | Dec 7th    | [ ]     | [X]      |
-| Dec 12th   | [ ]     | [ ]      |
+| Dec 12th   | [X]     | [ ]      |
 | Dec 14th   | [ ]     | [ ]      |
